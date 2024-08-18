@@ -29,7 +29,6 @@ def find_longest_structure(n, m, grid):
     
     return max_length
 
-# 입력 처리
 T = int(input())
 for test_case in range(1, T + 1):
     N, M = map(int, input().split())
