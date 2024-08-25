@@ -24,7 +24,7 @@ def baby_gin(numbers):
         i += 1
 
     if triplet + runs == 2:
-        return 'Baby gin'
+        return 'Baby Gin'
     else:
         return 'Lose'
 
